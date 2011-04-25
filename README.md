@@ -41,9 +41,13 @@ Yep. [Here](http://dev.federalbureauofinhumanity.org/jddg/demo/).
 Yep. Read (like a boss) [here](http://wiki.federalbureauofinhumanity.org/doku.php?id=jddg-source).
 The version here is commented, the downloadable version is not.
 You can choose the version you want.
+## I want to say something (like a boss)
+You can contact me at federalbureauofinhumanity__AT__gmail.com
+(replace __AT__ with @)
+Please write "jddg" or something in your subject.
 ## I want to read the license (like a boss)
 This plugin is licensed under the terms of the WTF Public License (see [here](http://en.wikipedia.org/wiki/WTFPL) and [here](http://sam.zoy.org/wtfpl/)) :
-<code>
+
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
 
@@ -57,9 +61,4 @@ This plugin is licensed under the terms of the WTF Public License (see [here](ht
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE FUCK YOU WANT TO. 
-</code>
-## I want to say something (like a boss)
-You can contact me at federalbureauofinhumanity__AT__gmail.com
-(replace __AT__ with @)
-Please write "jddg" or something in your subject.
 
