@@ -47,7 +47,7 @@ You can contact me at federalbureauofinhumanity__AT__gmail.com
 Please write "jddg" or something in your subject.
 ## I want to read the license (like a boss)
 This plugin is licensed under the terms of the WTF Public License (see [here](http://en.wikipedia.org/wiki/WTFPL) and [here](http://sam.zoy.org/wtfpl/)) :
-
+<pre>
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
 
@@ -61,4 +61,4 @@ This plugin is licensed under the terms of the WTF Public License (see [here](ht
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE FUCK YOU WANT TO. 
-
+</pre>
