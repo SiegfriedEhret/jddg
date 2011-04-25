@@ -42,8 +42,7 @@ Yep. Read (like a boss) [here](http://wiki.federalbureauofinhumanity.org/doku.ph
 The version here is commented, the downloadable version is not.
 You can choose the version you want.
 ## I want to say something (like a boss)
-You can contact me at federalbureauofinhumanity__AT__gmail.com
-(replace __AT__ with @)
+You can contact me at siegfried.ehret@gmail.com
 Please write "jddg" or something in your subject.
 ## I want to read the license (like a boss)
 This plugin is licensed under the terms of the WTF Public License (see [here](http://en.wikipedia.org/wiki/WTFPL) and [here](http://sam.zoy.org/wtfpl/)) :
