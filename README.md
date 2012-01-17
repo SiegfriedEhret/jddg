@@ -34,11 +34,7 @@ For now, there are 2 parameters:
   * secure : true or false. To use https or simple http to call the Duck Duck Go service
   * width : define the width of the searchbox + results window
 ## I want to try it (like a boss)
-Yep. [Here](http://dev.federalbureauofinhumanity.org/jddg/demo/).
-## I want to download it (like a boss)
-[Here](http://dev.federalbureauofinhumanity.org/jddg/jquery.ddg.0.1.tgz) v0.1 [23/04/2011]
-## I want to see the source (like a boss)
-Yep. Read (like a boss) [here](http://wiki.federalbureauofinhumanity.org/doku.php?id=jddg-source).
+Yep. [Here](http://dev.federalbureauofinhumanity.org/jddg/v0.3/demo/) - v0.3  
 The version here is commented, the downloadable version is not.
 You can choose the version you want.
 ## I want to say something (like a boss)
